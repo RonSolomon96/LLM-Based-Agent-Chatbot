@@ -9,7 +9,7 @@ from langgraph.checkpoint.memory import MemorySaver
 from tools import tools
 load_dotenv()
 
-############## Setup Gemini #############
+
 memory = MemorySaver()
 
 
