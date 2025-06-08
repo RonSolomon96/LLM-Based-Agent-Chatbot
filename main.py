@@ -50,5 +50,5 @@ while True:
         break
     else:
         r = app.invoke({"messages": [HumanMessage(content=user_input)]},config=config)
-        print(r["messages"][-1].content)
+        print("Assistant:" + r["messages"][-1].content)
 
