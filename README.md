@@ -20,8 +20,8 @@ This project demonstrates a modular, tool-augmented LLM agent using **LangGraph*
 - Python 3.11+
 - LangChain
 - LangGraph
-- OpenAI GPT-4o-mini
 - Tavily Search API
+- LLM API
 ---
 
 ## How It Works
